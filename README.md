@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a dedicated software developer with a focus on building efficient, scalable, and user-friendly applications. I am passionate about technological innovation and constantly seek to refine my development skills while exploring new horizons in software engineering.
+I am Rishi Shukla a dedicated software developer with a focus on building efficient, scalable, and user-friendly applications. I am passionate about technological innovation and constantly seek to refine my development skills while exploring new horizons in software engineering.
 
 ---
 

@@ -1,4 +1,4 @@
-# Welcome to the profile of Rishi Shukla
+# Welcome to my profile
 
 ---
 

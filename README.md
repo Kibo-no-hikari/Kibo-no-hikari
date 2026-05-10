@@ -16,15 +16,6 @@ I am Rishi Shukla a dedicated software developer with a focus on building effici
 
 **Mobile Development**
 * ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbo_no_hikari&layout=compact&theme=vision-friendly-dark)
-
-![Rishi Shukla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbo_no_hikari&show_icons=true&theme=vision-friendly-dark)
-
 ---
 
 ### Connect with me
